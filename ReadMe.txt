@@ -1,5 +1,5 @@
-Natasha Partenheimer
-101082999
+Health and Fitness Club Management System using PostgreSQL. 
+This system serves as a comprehensive platform catering to the diverse needs of  fitness club members, trainers, and administrative. 
 
 Folders/Files Included:
 - In the SQL folder there are 2 .sql files:
