@@ -11,7 +11,7 @@ connection = psycopg2.connect(
     host="localhost",
     database="FitClub",
     user="postgres",
-    password="Natuna14" #update password
+    password="XXXXX" #update password
 
 )
 
